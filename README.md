@@ -3,4 +3,4 @@ This is a plain vanilla blog in Rails that leverages every step in CRUD
 
 You can add this to an existing site for functionality
 
-User authentication is not included
+User authentication is not included as it would need to be added
